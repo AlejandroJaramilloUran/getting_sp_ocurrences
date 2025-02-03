@@ -1,5 +1,4 @@
 library(rgbif)
-library(dplyr)
 taxon_key <- name_backbone_checklist(sp_list)
 
 #the object taxon_key has several columns including scientific name and the code
